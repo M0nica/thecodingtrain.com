@@ -52,3 +52,4 @@ export const normalizedLanguages = (language) => {
 
   return languages[lowercasedLanguage] ? languages[lowercasedLanguage] : lowercasedLanguage
 }
+
